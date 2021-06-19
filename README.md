@@ -13,5 +13,5 @@ This assessment was bespoke handcrafted for Bindiya Hassan Mohankumar.
 5) Run 'yarn start'
 
 6) Navigate to "http://localhost:3000/" to see the dashboard and visualization
-7) 
+
 Read more about this assessment [here](https://react.eogresources.com)
